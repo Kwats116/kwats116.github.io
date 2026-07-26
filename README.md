@@ -5,7 +5,7 @@
 
 ## Navigation
 - [Professional Statement](#professional-statement)
-- [Twine Interactive Fiction](#Star-Chasing.html)
+- [Twine Interactive Fiction](#twine-interactive-fiction)
 - [RPG Handbook Section](#rpg-handbook-section)
 - [Game Design Document (GDD)](#game-design-document-gdd)
 
@@ -30,7 +30,7 @@ My technical background allows me to construct logical narrative trees and imple
 > **Reflection & Process:**
 > Developing *Star Chaser* allowed me to experiment with conditional logic (variables tracking blueprints, keys, and impulse choices) to create a sense of true agency. Balancing atmospheric prose with clear mechanical choices reinforced my goal of designing narratives where the player’s psychological choices dictate both immediate interactions and the ultimate trajectory of the story.
 
-🎮 **[Play Star Chaser](starchaser.html)**
+🎮 **[Play Star Chaser](Star-Chasing.html)**
 
 ---
 
@@ -43,7 +43,7 @@ This handbook section provides tabletop players and Game Masters with a modular 
 > **Reflection & Process:**
 > Designing this RPG ruleset challenged me to translate narrative concepts into clear, balanced game mechanics for a tabletop audience. Writing for both players and Game Masters refined my ability to write concise technical documentation while maintaining evocative thematic flavor.
 
-📄 **[View Handbook PDF](RPG_Handbook.pdf)**
+📄 **[View Handbook PDF](rpg-handbook-moonseye)**
 
 ---
 
