@@ -13,11 +13,12 @@
 
 ## Professional Statement
 
-Welcome to my interactive narrative portfolio. As a game designer and developer with a foundation in Computer Science, my goal is to bridge systemic design with rich, choice-driven storytelling. Throughout this course, I have explored how structural rules, player agency, and atmospheric worldbuilding intersect to create engaging player experiences.
+My name is Kyle Watson and welcome to my interactive narrative portfolio. As someone who is doing game design and development as a hobby and a Computer Science Undergrad, my goal is to bring unique design choices into the realm of storytelling. Throughout this course, I have learned of various tools on both the Storytelling and the Devlopment fronts to help reach my goals and show me various mediums where Interactive Narrative writing is used.
 
-My creative focus centers around dark fantasy, investigative mystery, and systemic player choice. I am particularly drawn to mechanics where player decisions aren't merely binary moral dilemmas, but tactical and personal trade-offs—such as managing physical or psychological impulses in high-stakes environments. Drawing inspiration from rich, atmospheric survival narratives and tactical tabletop RPGs, my goal is to craft immersive worlds where players feel both empowered and challenged by the consequences of their actions.
+My creative focuse largely centers around fantasy elements, investigative mystery and systemic player choice. I am normally drawn to mechanics where player choices are less moral dilemmas but more so act as tactical trade offs, making the player see that they themselves are changing not only the character they're playing as but the world itself. Most of my inspiration comes from Tabletop RPGs such as D&D, various fantasy tropes and medias, visual novels, and overall Mystery/Investigation games where the player has some level of control over the outcome of the story.
 
-My technical background allows me to construct logical narrative trees and implement dynamic state tracking (using tools like Twine's Harlowe macros, flags, and variables). Whether scripting mechanical locking systems in a digital text adventure or balancing character attributes for a tabletop RPG handbook section, I approach game design as both an art and a software discipline. Moving forward, I aim to continue developing games that prioritize deep narrative reactivity and memorable worldbuilding.
+My technical background allows me to construct logical narrative trees and implement dynamic state tracking( using certian tools within Twine like Harlowe macros, flags and variables). Whether scripting locking systems within a digital text adventure or balacing weapons for a tabletop RPG handbook section, I want to approach game design as an artform and a disciplin of software development. Moving foward, I want to continue pursuing this as a hobby while also developing games that tell a story that I and hopfully others find intresting with whatever ideas I come up with at the time
+
 
 ---
 
@@ -25,10 +26,10 @@ My technical background allows me to construct logical narrative trees and imple
 
 ### *Star Chaser*
 
-*Star Chaser* is a steampunk, fantasy-investigative interactive text adventure built in Twine. Players take on the role of Elizabeth, a gunslinger traveling alongside a party of unique companions—a Minotaur, a Kobold, and a Tabaxi—on a quest to confront the enigmatic Wishmaker and reclaim their lost "sparks." The game features branching paths, environment inspection, inventory/blueprint mechanics, and an "Impulse" system where player emotional restraint directly dictates the narrative outcome.
+*Star Chaser* is a short steampunk, fantasy-investigative interactive text adventure built in Twine. Players take on the role of Elizabeth, a gunslinger dragonborn traveling alongside a party of unique companions(a Minotaur, a Kobold, and a Tabaxi )on a quest to confront the enigmatic Wishmaker and reclaim their lost "sparks." The game features branching paths, environment inspection, inventory mechanics, and an "Impulse" system where player emotional restraint directly dictates the narrative outcome.
 
 > **Reflection & Process:**
-> Developing *Star Chaser* allowed me to experiment with conditional logic (variables tracking blueprints, keys, and impulse choices) to create a sense of true agency. Balancing atmospheric prose with clear mechanical choices reinforced my goal of designing narratives where the player’s psychological choices dictate both immediate interactions and the ultimate trajectory of the story.
+> Developing *Star Chaser* allowed me to experiment with conditional logic (variables tracking blueprints, keys, and impulse choices in similar manners to some Visual novels or other interactive text adventures) to create a sense of player agency. Balancing atmosphere with clear mechanical choices reinforced my goal of designing narratives where the player’s psychological choices dictate both immediate interactions and the ultimate trajectory of the story.
 
 🎮 **[Play Star Chaser](Star-Chasing.html)**
 
@@ -38,10 +39,10 @@ My technical background allows me to construct logical narrative trees and imple
 
 ### Tabletop RPG Module: *"The Wishmaker's Spark"*
 
-This handbook section provides tabletop players and Game Masters with a modular class and environmental ruleset centered around magical "sparks"—the core essence of a character's creative and vital energy. Designed for tabletop campaigns, this document introduces stats for steampunk artificer mechanisms, rules for handling lost sparks, and unique archetype options for fantasy races navigating industrial environments.
+This handbook section provides tabletop players (mostly D&D) and Dungeon Masters with two unique weapons that can fit into a campaign based around the themes presented, laregly theaming around the industrialization of certian aspects. Designed to be able to be given to players off character creation or placed in a loot table within a dungeon or other location, its a great fit for anyone who wishes to utilize magic and melee combat without needing to play a different class entirely or to add a bit extra to their world
 
 > **Reflection & Process:**
-> Designing this RPG ruleset challenged me to translate narrative concepts into clear, balanced game mechanics for a tabletop audience. Writing for both players and Game Masters refined my ability to write concise technical documentation while maintaining evocative thematic flavor.
+> Designing this page wasn't too challanging once I had a general idea on what i wanted to with it. A few issues I had when designing it was making sure I wasn't thinking too large in terms of scale as the assignment for this was one page only and to make sure it was as transferable as possible. Another was making sure I discribed it properly within one page and make it balanced enough when in use.
 
 📄 **[View Handbook PDF](rpg-handbook-moonseye)**
 
@@ -49,12 +50,12 @@ This handbook section provides tabletop players and Game Masters with a modular 
 
 ## Game Design Document (GDD)
 
-### *Star Chaser*: High-Concept Game Design Document
+### *The Eldritch Dark*: High-Concept Game Design Document
 
-This comprehensive Game Design Document outlines the full vision for *Star Chaser* as an expanded interactive visual novel/RPG hybrid. The document details core gameplay loops, party management systems, emotional impulse mechanics, character biographies, audio/visual mood boards, and complete passage flowcharts for the city of Vanderwall and the Trading Guild sanctum.
+This comprehensive Game Design Document outlines the potential game *The Eldritch Dark*. This was done with the help of two other people as a group assignment within the class. The Document highlights the overall world, characters within the game including the player character, the basies of the story, items the player will use, UI and more. 
 
 > **Reflection & Process:**
-> Authoring this GDD was an essential exercise in production planning and game architecture. It forced me to map out technical scope, player pathways, and mechanical dependencies prior to implementation, bridging my computer science workflow with creative narrative planning.
+> Writing the GDD( Game design Document) was an important step for not just me but probably the rest of my group as well to see how the overall design process is when you're working with multiple people or multiple departments. The idea for the game was a combination of my idea of some Eldritch horror mystery and other's idea of the player Character being blind or near blind and navigating through the game utlizing some device. We combined the two ideas and formed it into a 1930's Noir style Eldritch horror themed investation game. Later changes formed like the overall scope or locations and such as time went on and we looked through each other's work to try and peice together the document as we could only message each other as a form of communication. Overall the experience was enjoyable, if not a bit stressful.
 
 📄 **[View GDD PDF](GDD_Star_Chaser.pdf)**
 
