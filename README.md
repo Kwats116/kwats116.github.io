@@ -5,7 +5,7 @@
 
 ## Navigation
 - [Professional Statement](#professional-statement)
-- [Twine Interactive Fiction](#twine-interactive-fiction)
+- [Twine Interactive Fiction](#Star-Chasing)
 - [RPG Handbook Section](#rpg-handbook-section)
 - [Game Design Document (GDD)](#game-design-document-gdd)
 
