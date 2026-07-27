@@ -1,5 +1,5 @@
 # Interactive Narrative Portfolio
-**CS 3305 • Interactive Narrative Games Design**
+**WRIT 3125 • Interactive Narrative and Games**
 
 ---
 
@@ -13,11 +13,11 @@
 
 ## Professional Statement
 
-My name is Kyle Watson and welcome to my interactive narrative portfolio. As someone who is doing game design and development as a hobby and a Computer Science Undergrad, my goal is to bring unique design choices into the realm of storytelling. Throughout this course, I have learned of various tools on both the Storytelling and the Devlopment fronts to help reach my goals and show me various mediums where Interactive Narrative writing is used.
+My name is Kyle Watson and welcome to my interactive narrative portfolio. As someone who is doing game design and development as a hobby and a Computer Science Undergrad, my goal is to bring unique design choices into the realm of storytelling. Throughout this course, I have learned of various tools on both the Storytelling and the Development fronts to help reach my goals and show me various mediums where Interactive Narrative writing is used.
 
-My creative focuse largely centers around fantasy elements, investigative mystery and systemic player choice. I am normally drawn to mechanics where player choices are less moral dilemmas but more so act as tactical trade offs, making the player see that they themselves are changing not only the character they're playing as but the world itself. Most of my inspiration comes from Tabletop RPGs such as D&D, various fantasy tropes and medias, visual novels, and overall Mystery/Investigation games where the player has some level of control over the outcome of the story.
+My creative focus largely centers around fantasy elements, investigative mystery and systemic player choice. I am normally drawn to mechanics where player choices are less moral dilemmas but more so act as tactical trade offs, making the player see that they themselves are changing not only the character they're playing as but the world itself. Most of my inspiration comes from Tabletop RPGs such as D&D, various fantasy tropes and medias, visual novels, and overall Mystery/Investigation games where the player has some level of control over the outcome of the story.
 
-My technical background allows me to construct logical narrative trees and implement dynamic state tracking( using certian tools within Twine like Harlowe macros, flags and variables). Whether scripting locking systems within a digital text adventure or balacing weapons for a tabletop RPG handbook section, I want to approach game design as an artform and a disciplin of software development. Moving foward, I want to continue pursuing this as a hobby while also developing games that tell a story that I and hopfully others find intresting with whatever ideas I come up with at the time
+My technical background allows me to construct logical narrative trees and implement dynamic state tracking( using certain tools within Twine like Harlowe macros, flags and variables). Whether scripting locking systems within a digital text adventure or balancing weapons for a tabletop RPG handbook section, I want to approach game design as an artform and a discipline of software development. Moving forward, I want to continue pursuing this as a hobby while also developing games that tell a story that I and hopefully others find interesting with whatever ideas I come up with at the time
 
 
 ---
@@ -37,12 +37,12 @@ My technical background allows me to construct logical narrative trees and imple
 
 ## RPG Handbook Section
 
-### Tabletop RPG Module: *"The Wishmaker's Spark"*
+### Tabletop RPG Module: *"Moonseye Weaponry"*
 
-This handbook section provides tabletop players (mostly D&D) and Dungeon Masters with two unique weapons that can fit into a campaign based around the themes presented, laregly theaming around the industrialization of certian aspects. Designed to be able to be given to players off character creation or placed in a loot table within a dungeon or other location, its a great fit for anyone who wishes to utilize magic and melee combat without needing to play a different class entirely or to add a bit extra to their world
+This handbook section provides tabletop players (mostly D&D) and Dungeon Masters with two unique weapons that can fit into a campaign based around the themes presented, largely theming around the industrialization of certain aspects. Designed to be able to be given to players off character creation or placed in a loot table within a dungeon or other location, its a great fit for anyone who wishes to utilize magic and melee combat without needing to play a different class entirely or to add a bit extra to their world
 
 > **Reflection & Process:**
-> Designing this page wasn't too challanging once I had a general idea on what i wanted to with it. A few issues I had when designing it was making sure I wasn't thinking too large in terms of scale as the assignment for this was one page only and to make sure it was as transferable as possible. Another was making sure I discribed it properly within one page and make it balanced enough when in use.
+> Designing this page wasn't too challenging once I had a general idea on what i wanted to with it. A few issues I had when designing it was making sure I wasn't thinking too large in terms of scale as the assignment for this was one page only and to make sure it was as transferable as possible. Another was making sure I described it properly within one page and make it balanced enough when in use.
 
 📄 **[View Handbook PDF](rpg-handbook-moonseye)**
 
@@ -52,10 +52,10 @@ This handbook section provides tabletop players (mostly D&D) and Dungeon Masters
 
 ### *The Eldritch Dark*: High-Concept Game Design Document
 
-This comprehensive Game Design Document outlines the potential game *The Eldritch Dark*. This was done with the help of two other people as a group assignment within the class. The Document highlights the overall world, characters within the game including the player character, the basies of the story, items the player will use, UI and more. 
+This comprehensive Game Design Document outlines the potential game *The Eldritch Dark*. This was done with the help of two other people as a group assignment within the class. The Document highlights the overall world, characters within the game including the player character, the basis of the story, items the player will use, UI and more. 
 
 > **Reflection & Process:**
-> Writing the GDD( Game design Document) was an important step for not just me but probably the rest of my group as well to see how the overall design process is when you're working with multiple people or multiple departments. The idea for the game was a combination of my idea of some Eldritch horror mystery and other's idea of the player Character being blind or near blind and navigating through the game utlizing some device. We combined the two ideas and formed it into a 1930's Noir style Eldritch horror themed investation game. Later changes formed like the overall scope or locations and such as time went on and we looked through each other's work to try and peice together the document as we could only message each other as a form of communication. Overall the experience was enjoyable, if not a bit stressful.
+> Writing the GDD( Game design Document) was an important step for not just me but probably the rest of my group as well to see how the overall design process is when you're working with multiple people or multiple departments. The idea for the game was a combination of my idea of some Eldritch horror mystery and other's idea of the player Character being blind or near blind and navigating through the game utilizing some device. We combined the two ideas and formed it into a 1930's Noir style Eldritch horror themed Investigation game. Later changes formed like the overall scope or locations and such as time went on and we looked through each other's work to try and piece together the document as we could only message each other as a form of communication. Overall the experience was enjoyable, if not a bit stressful.
 
 📄 **[View GDD PDF](The-Eldritch-Darkness-GDD-Team.docx.pdf)**
 
