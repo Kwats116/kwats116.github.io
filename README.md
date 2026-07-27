@@ -57,7 +57,7 @@ This comprehensive Game Design Document outlines the potential game *The Eldritc
 > **Reflection & Process:**
 > Writing the GDD( Game design Document) was an important step for not just me but probably the rest of my group as well to see how the overall design process is when you're working with multiple people or multiple departments. The idea for the game was a combination of my idea of some Eldritch horror mystery and other's idea of the player Character being blind or near blind and navigating through the game utlizing some device. We combined the two ideas and formed it into a 1930's Noir style Eldritch horror themed investation game. Later changes formed like the overall scope or locations and such as time went on and we looked through each other's work to try and peice together the document as we could only message each other as a form of communication. Overall the experience was enjoyable, if not a bit stressful.
 
-📄 **[View GDD PDF](GDD_Star_Chaser.pdf)**
+📄 **[View GDD PDF](The-Eldritch-Darkness-GDD-Team.docx.pdf)**
 
 ---
 
